@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently learning CS and Philosophy, but still on a entry level
+- I'm currently learning CS and Philosophy, but still on an entry level
 - How to reach me: haf60@pitt.edu
