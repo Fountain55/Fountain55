@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently an undergraduate student in Pitt
+I'm studying in CS and Philosophy
+How to reach me: haf60@pitt.edu
